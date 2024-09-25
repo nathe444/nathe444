@@ -44,13 +44,13 @@
 ## 📫 How to Reach Me
 
 <p align="center">
-  <a href="natnaelm552@gmail.com">
+  <a href="mailto:natnaelm552@gmail.com">
     <img src="https://img.shields.io/badge/Email-me-red?style=for-the-badge&logo=gmail&logoColor=white" height="40">
   </a>
   <a href="https://www.linkedin.com/in/your-profile">
     <img src="https://img.shields.io/badge/LinkedIn-connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="40">
   </a>
-  <a href="https://your-website.com">
+  <a href="https://nathe-works.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-Website-blueviolet?style=for-the-badge&logo=web&logoColor=white" height="40">
   </a>
 </p>
