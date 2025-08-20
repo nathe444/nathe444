@@ -129,12 +129,12 @@ Replace placeholders marked with 🔧 as needed.
 
 <p align="center">
   <!-- Replace `🔧username` with your GitHub handle -->
-  <img src="https://github-readme-stats.vercel.app/api?username=🔧nathe444&show_icons=true&theme=radical" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=🔧nathe444&theme=radical&hide_border=false" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nathe444&show_icons=true&theme=radical" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=nathe444&theme=radical&hide_border=false" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=🔧nathe444&theme=react-dark" alt="activity-graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nathe444&theme=react-dark" alt="activity-graph" />
 </p>
 
 ---
