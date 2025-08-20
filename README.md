@@ -92,13 +92,13 @@ Replace placeholders marked with 🔧 as needed.
 ## 💼 Experience
 
 * **Freelance Full‑Stack & AI Automation** — *Upwork*
-  Built data‑driven web apps, Messenger/Telegram bots, CRM automations, and RAG chat systems for clients. Delivered end‑to‑end solutions from scoping to deployment and monitoring.
+  <p>Built data‑driven web apps, Messenger/Telegram bots, CRM automations, and RAG chat systems for clients. Delivered end‑to‑end solutions from scoping to deployment and monitoring.</p> 
 
 * **Intern** — *African Union*
-  Contributed to internal tooling and process digitization. Collaborated on secure, scalable workflows and knowledge systems.
+  <p> Contributed to internal tooling and process digitization. Collaborated on secure, scalable workflows and knowledge systems.</p>
 
 * **Intern** — *Perago Systems*
-  Worked across the stack to design, develop, and deploy scalable features with cross‑functional teams.
+  <p>Worked across the stack to design, develop, and deploy scalable features with cross‑functional teams.</p>  
 
 ---
 
@@ -129,7 +129,8 @@ Replace placeholders marked with 🔧 as needed.
 
 <p align="center">
   <!-- Replace `🔧username` with your GitHub handle -->
-  <img src="https://github-readme-stats.vercel.app/api?username=nathe444&show_icons=true&theme=radical" height="160"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=nathe444&show_icons=true&theme=radical" height="160"/>
+   -->
   <img src="https://streak-stats.demolab.com?user=nathe444&theme=radical&hide_border=false" height="160"/>
 </p>
 
