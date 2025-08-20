@@ -23,7 +23,7 @@ Replace placeholders marked with 🔧 as needed.
   <a href="mailto:natnaelm552@gmail.com"><img src="https://img.shields.io/badge/Email-natnaelm552%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/🔧your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://nathe-works.netlify.app"><img src="https://img.shields.io/badge/Portfolio-nathe--works.netlify.app-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://www.upwork.com/freelancers/🔧your-upwork"><img src="https://img.shields.io/badge/Upwork-Top%20Rated-14a800?style=for-the-badge&logo=upwork&logoColor=white"/></a>
+  <a href="[https://www.upwork.com/freelancers/🔧your-upwork](https://www.upwork.com/freelancers/~019f47e60d13168603)">upwork</a>
 </p>
 
 ---
@@ -32,8 +32,8 @@ Replace placeholders marked with 🔧 as needed.
 
 * **Full‑Stack** apps with **React/Next.js** + **Node/Express**, styled with **Tailwind** and animated with **Framer Motion**
 * **AI‑powered** chatbots & **RAG** pipelines (FastAPI/PostgreSQL/pgvector, sentence‑transformers)
-* **Automation** with **n8n** (CRM syncs, scraping pipelines, lead qual, Slack/Telegram bots)
-* **Data‑aware** backends with clean architecture, observability, and testable components
+* **Automation** with **n8n** (CRM syncs, scraping pipelines, lead qual, Slack/Telegram bots , Content generation etc...)
+* **Data‑aware** backends with clean architecture
 
 ---
 
@@ -100,8 +100,6 @@ Replace placeholders marked with 🔧 as needed.
 * **Intern** — *Perago Systems*
   Worked across the stack to design, develop, and deploy scalable features with cross‑functional teams.
 
-> 🔧 Add dates/metrics here, e.g. *2024 — 2025 • 10+ projects shipped • 30% faster lead‑qual automation*.
-
 ---
 
 ## 🏆 Selected Work
@@ -109,9 +107,8 @@ Replace placeholders marked with 🔧 as needed.
 * **AI RAG Chat Systems**: FastAPI + PostgreSQL/pgvector + sentence‑transformers. Multi‑LLM support (OpenAI/DeepSeek/Claude/Llama) with tools and context injection.
 * **Kuriftu Resort Itinerary Planner**: Conversational trip planning using embeddings + preference modeling.
 * **n8n Lead Gen Automations**: Scraping → enrichment → dedup → CRM push → Slack alerts.
-* **Messenger Bot + Lead Capture**: FastAPI backend, OpenAI integration, and webhook processing.
-
-> 🔧 Link real repos/case studies here.
+* **Bot + Lead Capture**: FastAPI backend, OpenAI integration, and webhook processing.
+* **Patient Record Management System** : React , redux , node.
 
 ---
 
@@ -132,12 +129,12 @@ Replace placeholders marked with 🔧 as needed.
 
 <p align="center">
   <!-- Replace `🔧username` with your GitHub handle -->
-  <img src="https://github-readme-stats.vercel.app/api?username=🔧username&show_icons=true&theme=radical" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=🔧username&theme=radical&hide_border=false" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=🔧nathe444&show_icons=true&theme=radical" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=🔧nathe444&theme=radical&hide_border=false" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=🔧username&theme=react-dark" alt="activity-graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=🔧nathe444&theme=react-dark" alt="activity-graph" />
 </p>
 
 ---
