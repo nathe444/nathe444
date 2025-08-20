@@ -5,12 +5,10 @@ Replace placeholders marked with 🔧 as needed.
 
 <!-- HERO -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Nathe%20—%20Full‑Stack%20%26%20AI%20Automation&fontAlign=50&fontAlignY=40&color=0:0ea5e9,50:7c3aed,100:ec4899&animation=twinkling" alt="hero" />
-</p>
+
 
 <p align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="72%" alt="Coding GIF" />
+  <img src="[https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif](https://camo.githubusercontent.com/4d6fa8bd308772d0ac584423a5c52507d4c18d9964c8a12f622632c4893be038/68747470733a2f2f772e77616c6c686176656e2e63632f66756c6c2f7a782f77616c6c686176656e2d7a786737676a2e6a7067)" width="72%" alt="Coding GIF" />
 </p>
 
 <h1 align="center">Hi, I'm Nathe 👋</h1>
