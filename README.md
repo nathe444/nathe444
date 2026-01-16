@@ -20,7 +20,7 @@ Replace placeholders marked with 🔧 as needed.
 <p align="center">
   <a href="mailto:natnaelm552@gmail.com"><img src="https://img.shields.io/badge/Email-natnaelm552%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/🔧your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://nathe-works.netlify.app"><img src="https://img.shields.io/badge/Portfolio-nathe--works.netlify.app-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://natnaelmulugeta.com"><img src="https://img.shields.io/badge/Portfolio-natnaelmulugeta.com-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.upwork.com/freelancers/~019f47e60d13168603">
   <img src="https://img.shields.io/badge/Upwork-Hire%20Me-14a800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
 </a>
